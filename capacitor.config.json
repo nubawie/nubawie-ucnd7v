@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Nubawie",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
